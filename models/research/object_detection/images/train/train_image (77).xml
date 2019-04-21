@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train_image (77).jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\train_image (77).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MTG Card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>249</ymin>
+			<xmax>763</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>MTG Card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>159</ymin>
+			<xmax>971</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>
